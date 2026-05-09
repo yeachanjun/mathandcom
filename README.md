@@ -1,42 +1,88 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Math%20and%20Com&fontSize=90" />
-</div>
 
-<h2 align="center"> 😄 About Me  </h2>
-🌱 I’m currently learning Artifitial Intelligence   <br/>
-🔭 I’m currently working on Department of Artificial Intelligence at Yonsei University(AI-ISL, PI:Albert No)   <br/>
-⚡ I’m currently interested in Differential Privacy   <br/>
-<h2 align="center"> ✨ Contact Me ✨  </h2>
+# Yeachan Jun
 
-<div align="center">
-<a href="mailto:dpcks8942@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+**Ph.D. Student · AI-ISL Lab · Yonsei University**  
+**Graduate School of Artificial Intelligence**  
+Seoul, South Korea
 
-<h2 align="center"> 🤔 Skill  </h2>
-
-<div align="center">
-
-<h3 align="center">Programing Languages </h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-
-<h3 align="center"> OS </h3>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
-<h3 align="center"> Language </h3> 
-<h3 align="center"> KR, US  </h3>        
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yeachan%20Jun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeachan-jun-9490102ba/)
+[![Gmail](https://img.shields.io/badge/Gmail-dpcks8942%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpcks8942@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mathandcom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathandcom)
 
 </div>
 
-<!--
-**mathandcom/mathandcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently a Ph.D. student at the **AI-ISL Lab**, **Yonsei University**, advised by **Prof. Albert No**.
+
+My current research focuses on **Differential Privacy** and privacy auditing for generative models. I am especially interested in membership inference, reconstruction behavior, and diffusion language models.
+
+Previously, I graduated early and at the top of my class from the Department of Mathematics at **Kwangwoon University** with a GPA of **4.44/4.5**.
+
+---
+
+## Research Interests
+
+- Differential Privacy
+- Privacy Auditing for Generative Models
+- Membership Inference Attacks
+- Diffusion Language Models
+- Machine Unlearning
+- Mathematics for Deep Learning
+
+---
+
+## Education
+
+**Yonsei University**  
+Ph.D. Student, Graduate School of Artificial Intelligence  
+Mar 2024 – Present  
+AI-ISL Lab · Advisor: Prof. Albert No
+
+**Kwangwoon University**  
+B.S. in Mathematics  
+Mar 2018 – Aug 2023  
+GPA: 4.44/4.5 · Early graduation · Summa cum laude
+
+---
+
+## Experience
+
+**Graduate Student, Yonsei University**  
+Jan 2024 – Present
+
+**Teaching Assistant, Yonsei University**  
+Introduction to Mathematics for Deep Learning  
+Sep 2024 – Dec 2024
+
+---
+
+## Publications
+
+Two preprints are currently under arXiv submission check. Links will be updated once the arXiv pages become public.
+
+- **Reconstruction-Structured Membership Inference for Diffusion Language Models**  
+  Preprint under arXiv submission check
+
+- **Second preprint title to be updated**  
+  Preprint under arXiv submission check
+
+---
+
+## Honors & Awards
+
+- **President's Award, LX Korea Land and Geospatial Informatix Corporation**  
+  First Prize, The Startup Competition for Big Data in Spatial Convergence · Sep 2024
+
+- **Dean's List Academic Honors, Kwangwoon University**  
+  Multiple semesters, including first-place distinctions in the department
+
+---
+
+## Personal Website
+
+A full personal academic website is being prepared. The website will include publications, projects, CV, and research updates after the arXiv links are public.
+
