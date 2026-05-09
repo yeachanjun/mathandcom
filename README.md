@@ -8,7 +8,8 @@ Seoul, South Korea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yeachan%20Jun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeachan-jun-9490102ba/)
 [![Gmail](https://img.shields.io/badge/Gmail-dpcks8942%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpcks8942@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mathandcom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathandcom)
+[![GitHub](https://img.shields.io/badge/GitHub-yeachanjun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeachanjun)
+[![Website](https://img.shields.io/badge/Website-yeachanjun.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://yeachanjun.github.io)
 
 </div>
 
@@ -84,5 +85,5 @@ Two preprints are currently under arXiv submission check. Links will be updated 
 
 ## Personal Website
 
-A full personal academic website is being prepared. The website will include publications, projects, CV, and research updates after the arXiv links are public.
+A full personal academic website is being prepared at **https://yeachanjun.github.io**. The website will include publications, projects, CV, and research updates after the arXiv links are public.
 
